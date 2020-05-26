@@ -6,6 +6,6 @@
 3: Create a **workflow** from 'Home' to 'Accounts'
 Then extent the workflow to SAP Success Factors.
 
-4: Add an **Announcment** in the Service Module.
+4: Add an **Announcement** in the Service Module.
 
-5: Show Lighthouse in SharePoint Demo Site
+5: Show **Lighthouse** in SharePoint Demo Site
