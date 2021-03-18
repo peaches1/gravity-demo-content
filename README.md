@@ -21,7 +21,7 @@ https://www.timecamp.com/blog/wp-content/uploads/2020/02/Career-goals-examples.p
 
 Dimensions: 810 by 410 pixels 
 
-https://github.com/peaches1/gravity-demo-content/blob/master/baugesuch-demo-bild.png
+https://github.com/peaches1/gravity-demo-content/blob/master/baugesuch-demo-bild.png?raw=true
 
 Dimensions: 666 by 347 
 
