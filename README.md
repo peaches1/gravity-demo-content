@@ -29,4 +29,11 @@ Dimensions: 666 by 347
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 # Demo Text für Baugesuch Demo
-Schnellerfassung Baugesuch
+NEU - Schnellerfassung Baugesuch
+
+_Intranet Link:_ https://wiki.bau.ch/pages/gesuch.html
+
+_YouTube Link:_ https://youtu.be/iFPjJGNvDdM?t=24
+
+_Höhe Bild:_ 400 pixel
+
