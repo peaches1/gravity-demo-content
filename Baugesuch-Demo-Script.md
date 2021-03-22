@@ -1,7 +1,9 @@
 # Baugesuch Demo Script
 Demo URL: https://demo.gravity.global/bau-demo/#
 
-_Callout Title:_ **NEU - Schnellerfassung Baugesuch**
+_Info Callout Title:_ **NEU - Schnellerfassung Baugesuch**
+
+_Single Callout Title:_ **Wie machen wir das?**
 
 _Intranet Link:_ https://wiki.bau.ch/pages/gesuch.html
 
@@ -23,11 +25,16 @@ _Lorem Ipsum:_ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   * Bild einfügen
   * Höhe Callout: 400 Pixel
 3.**Information Callout -> Intranet Link hinzufügen**
+  * Titel: Mehr Informationen im Wiki
 4. **Information Callout -> PDF hinzufügen**
-5. **Announcment**
-  * 20x Anzeigen
-  * Nur Text
-  * Dann Bild hinzufügen (400px Höhe)
-6. **Single Callout**
+
+5. **Single Callout**
+  * Titel: Wie machen wir das? 
   * YouTube Link & Text
   * Auto open
+
+
+# Aussagen
+Ich kann in direkt in die App Schreiben
+
+Keine Dokus mehr Updaten sondern direkt korrigieren
