@@ -8,6 +8,13 @@ about:config
 
 security.csp.enable
 
+# GIF links #
+https://c.tenor.com/uEjQxCwAWfgAAAAC/tenor.gif
+
+Callout size: 600 by 450 pixels
+
+https://media.tenor.com/hPdGrTTR_nEAAAAC/upload-patch.gif
+
 # Picture links
 
 <https://gravity.global/wp-content/uploads/2020/03/same-site-config-google-chrome.png>
@@ -45,3 +52,4 @@ _Intranet Link:_ <https://wiki.bau.ch/pages/gesuch.html>
 _YouTube Link:_ <https://youtu.be/iFPjJGNvDdM?t=24>
 
 _Höhe Bild:_ 400 pixel
+-
